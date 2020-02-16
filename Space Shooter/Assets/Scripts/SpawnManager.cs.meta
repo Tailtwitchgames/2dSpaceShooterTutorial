@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2b9176a26cf2b0e4bb72c10dbcfe381a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyPrefab: {fileID: 5410068076538798853, guid: 33e82046d9398bd44b6f8fb5c8a835a5,
+      type: 3}
+  - _tripleShotPrefab: {fileID: 2246982772776948010, guid: 2dfab27b089077f4eaf208803d631302,
+      type: 3}
+  - _speedUpPrefab: {fileID: 3446077394062559472, guid: 24994a0c70265bd4088864200629490f,
+      type: 3}
+  - _shieldPowerUpPrefab: {fileID: 1925677970217252259, guid: 1350f9c5420104148afe47e52c4708ce,
+      type: 3}
+  - _asteroidPrefab: {fileID: 7847096734103311122, guid: ce99621f0aad2044c9117a24bb38332d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
